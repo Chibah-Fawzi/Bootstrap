@@ -43,16 +43,6 @@
         padding-bottom: 1rem;
     }
     
-    body .btn-primary {
-        background-color: #6648B1;
-        border: 1px solid #6648B1;
-    }
-    
-    body .btn-primary:hover {
-        background-color: #3d1a75;
-        border: 1px solid #3d1a75;
-    }
-    
     .jumbotron {
         padding: 1rem;
         border-radius: 0;
