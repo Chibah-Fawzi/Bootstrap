@@ -99,15 +99,15 @@
         padding-top: 2rem;
     }
     
-    hr .light {
+    footer hr .light {
         border-top: 1px solid #D5D5D5;
         width: 75%;
         margin-top: .8rem;
         margin-bottom: 1rem;
     }
     
-    hr .light-100 {
-        border-top: 1px solid #D5D5D5;
+    footer hr .light-100 {
+        border-top: 3px solid #D5D5D5;
         width: 100%;
         margin-top: .8rem;
         margin-bottom: 1rem;
